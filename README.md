@@ -1,2 +1,2 @@
 # Cpp-OOPS
-It consist of all OOPS concepts program using Cpp. I have practiced for paper and University Exam 
+It consists of all OOPS concept programs using Cpp. I have practiced for the paper and the university exam.
